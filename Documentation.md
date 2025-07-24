@@ -14,4 +14,4 @@ To investigate gender pay inequality within Daikibo Industrials based on role an
 3. Applied conditional formatting rules to visually distinguish each class.
 4. Data made ready for visualization and executive summary.
 
-![Gender Equality Analysis - Screenshot](Images\Gender%20Equality%20-%20Excel.png)
+![Gender Equality Analysis - Screenshot](Images/Gender%20Equality%20-%20Excel.png)
