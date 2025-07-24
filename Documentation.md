@@ -1,10 +1,15 @@
 
-# Steps Summary – Excel Gender Pay Equality Analysis
+# Steps Overview
 
-## Purpose:
+## Tableau Daikibo Telemetry Downtime Analysis
+
+## Excel Gender Pay Equality Analysis
+
+
+### Purpose:
 To investigate gender pay inequality within Daikibo Industrials based on role and location.
 
-## Key Steps:
+### Key Steps:
 1. Analyzed “Equality Score” data across job roles.
 2. Created “Equality Class” column using a nested IF formula to classify:
    - Ideal (0)
