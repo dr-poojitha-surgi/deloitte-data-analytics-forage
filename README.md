@@ -2,7 +2,7 @@
 
 This repository showcases my work during the **Deloitte Data Analytics Virtual Internship** via Forage. The project involved analyzing telemetry and workforce data using **Excel** and **Tableau** to draw meaningful business insights.
 
-## 🛠 Tools Used
+## Tools Used
 - Excel (Data classification, conditional formatting, equality score analysis)
 - Tableau (Dashboards for downtime by factory and device type)
 
