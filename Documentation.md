@@ -15,7 +15,7 @@ To visualize telemetry downtime patterns at Daikibo Industrials by factory and d
 
 3. Organized visuals into a single dashboard layout to support quick, comparative analysis.
 
-    ![Dashboard - Screenshot](Images/Daikibo%20Telemetry%20Downtime%20Analysis.png)
+    ![Dashboard - Screenshot](Images/Daikibo%20Telemetry%20Downtime%20Dashboard.png)
 
 5. Applied interactive filters to allow users to select a factory and observe corresponding device-level downtime.
 
