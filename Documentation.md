@@ -13,3 +13,5 @@ To investigate gender pay inequality within Daikibo Industrials based on role an
    - Highly Discriminative (beyond ±20)
 3. Applied conditional formatting rules to visually distinguish each class.
 4. Data made ready for visualization and executive summary.
+
+![Gender Equality Analysis - Screenshot](Images\excel_screenshot.png)
