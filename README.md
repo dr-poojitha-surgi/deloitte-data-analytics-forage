@@ -6,7 +6,7 @@ This repository showcases my work during the **Deloitte Data Analytics Virtual I
 - Excel (Data classification, conditional formatting, equality score analysis)
 - Tableau (Dashboards for downtime by factory and device type)
 
-## 📊 Key Work
+## Key Work
 - Investigated internal complaints about gender-based pay inequality across job roles and locations. Calculated and classified "Equality Score" into four categories and applied conditional formatting using **Excel**.
 - Built visual dashboards in **Tableau**:
   - Downtime per factory
