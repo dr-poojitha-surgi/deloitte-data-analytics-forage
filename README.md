@@ -13,7 +13,8 @@ This repository showcases my work during the **Deloitte Data Analytics Virtual I
   - Downtime per device type
 
 ## 📁 Folder Structure
-- [Documentation](Documentation): Step-by-step procedure notes
+- [Documentation](Documentation.md): Step-by-step procedure notes
+- [Images](Images): Screenshots of Tableau dashboard and Excel analysis
 - [Download Excel](Equality%20Table.xlsx): Excel file with cleaned and analyzed data
 - [Download Deloitte Tableau Dashboard](Daikibo%20Telemetry%20Downtime%20Analysis.tbwx): Tableau workbook (.twbx)
 
