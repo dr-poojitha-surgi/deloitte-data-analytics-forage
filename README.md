@@ -13,9 +13,9 @@ This repository showcases my work during the **Deloitte Data Analytics Virtual I
   - Downtime per device type
 
 ## 📁 Folder Structure
-- [Excel](`/Equality Table.xlsx`: Excel file with cleaned and analyzed data
-- `/tableau`: Tableau workbook (.twbx)
-- `/documentation`: Step-by-step process notes
+- [Excel](Equality Table.xlsx): Excel file with cleaned and analyzed data
+- [Tableau](Daikibo Telemetry Downtime Analysis.tbwx): Tableau workbook (.twbx)
+- `/Documentation`: Step-by-step process notes
 
 ## 🔗 About the Internship
 Completed as part of the [Deloitte Data Analytics Virtual Experience](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy).
