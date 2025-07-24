@@ -13,8 +13,7 @@ This repository showcases my work during the **Deloitte Data Analytics Virtual I
   - Downtime per device type
 
 ## 📁 Folder Structure
-- [Excel](Equality Table.xlsx)
-- : Excel file with cleaned and analyzed data
+- `Equality Table.xlsx`: Excel file with cleaned and analyzed data
 - [Tableau](Daikibo Telemetry Downtime Analysis.tbwx): Tableau workbook (.twbx)
 - `/Documentation`: Step-by-step process notes
 
